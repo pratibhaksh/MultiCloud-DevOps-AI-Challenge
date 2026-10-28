@@ -1,7 +1,7 @@
 ## Key Outcomes
 
 The session marked the official launch of Batch 45, a two-and-a-half-month intensive program covering **Multi-Cloud** (AWS, GCP, Azure), **DevOps**, **DevSecOps**, and **AI**. Vikas (instructor) set behavioral expectations, outlined the full curriculum, and walked students through a high-level DevOps workflow diagram to establish foundational understanding. The session was streamed live on YouTube and emphasized building confidence, daily practice habits, and interview readiness from Day 1. No deep technical content was delivered; this was explicitly framed as a course introduction and orientation. 
-
+This is important key point
 ---
 
 ## Program Structure & Curriculum
